@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>3A87D5CB-2DDE-4D9D-8D93-D3370F87F5AC</string>
+	<key>IDESourceControlProjectName</key>
+	<string>UnionHomeWork</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>0BD2B95C-D5BC-4F98-A3AA-AD9F96CA151B</key>
+		<string>http://iptfsvr01.skl.com.tw:8081/MAgent/Main/trunk/HomeWork</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>skcu9015test/UnionHomeWork/UnionHomeWork.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>0BD2B95C-D5BC-4F98-A3AA-AD9F96CA151B</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>0BD2B95C-D5BC-4F98-A3AA-AD9F96CA151B</key>
+		<string>http://iptfsvr01.skl.com.tw:8081</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>http://iptfsvr01.skl.com.tw:8081/MAgent/Main/trunk/HomeWork/skcu9015test/UnionHomeWork/UnionHomeWork.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>0BD2B95C-D5BC-4F98-A3AA-AD9F96CA151B</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryBranchesRelativeLocationKey</key>
+			<string>MAgent/Main/branches</string>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlRepositoryTagsRelativeLocationKey</key>
+			<string>MAgent/Main/tags</string>
+			<key>IDESourceControlRepositoryTrunkRelativeLocationKey</key>
+			<string>MAgent/Main/trunk</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>0BD2B95C-D5BC-4F98-A3AA-AD9F96CA151B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>HomeWork</string>
+		</dict>
+	</array>
+</dict>
+</plist>
